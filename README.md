@@ -7,8 +7,8 @@
 # Data Organization
 - Json file or txt file that has paths to the datasets
 - There are two main Datasets (simulations):
--   Dataset corresponding to Allpix Squared data: located in /home/asanchis/simulaciones/andrea/3D_cylinder/output/
--   Dataset corresponding to Sentaurus data (2D and 3D simus): located in /home/asanchis/simulaciones/bin/
+  -   Dataset corresponding to Allpix Squared data: located in /home/asanchis/simulaciones/andrea/3D_cylinder/output/
+  -   Dataset corresponding to Sentaurus data (2D and 3D simus): located in /home/asanchis/simulaciones/bin/
 
 # How to use the dataset/scripts
 ## Data corresponding to Allpix simulations:
