@@ -36,6 +36,11 @@ Apptainer> python3 Propagated_Energy_Spectrum2.ipynb
 ## Data corresponding to Sentaurus simulations:
 
 1) Change to the corresponding folder containing the data:
+ - 3D simulations:
+   Apptainer> cd ~/simulaciones/bin/3D_Sentaurus
+ - 2D simulations:
+   Apptainer> cd ~/simulaciones/bin/2D_Sentaurus
+   
 2) Execute the analysis code
  - 3D simulations:
    -   visualize_ElectrostaticPotential.py
